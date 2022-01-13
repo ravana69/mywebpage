@@ -331,7 +331,7 @@ var pJS = function (e, a) {
                 case "edge":
                     i.canvas.ctx.rect(a.x - t, a.y - t, 2 * t, 2 * t);
                     break;
-                case "triangle":
+                case "square":
                     i.fn.vendors.drawShape(
                         i.canvas.ctx,
                         a.x - t,
