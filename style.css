@@ -46,13 +46,13 @@ p {
     font-size: 1.5rem;
     font-family: "Raleway", sans-serif;
     font-weight: 200;
-    color: #fff;
+    color: #00ff00;
     animation: floatIn 0.7s ease-out 0.7s normal forwards;
 }
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: #00ff00;
 }
 
 button {
@@ -65,7 +65,7 @@ button {
     font-size: 1.2rem;
     font-family: "Raleway", sans-serif;
     font-weight: 200;
-    color: #fff;
+    color: #00ff00;
 }
 
 button:hover {
