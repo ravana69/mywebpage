@@ -10,7 +10,7 @@ particlesJS("particles-js", {
             },
         },
         color: {
-            value: "#b91d1d",
+            value: "#FFFF00",
         },
         shape: {
             type: "triangle",
